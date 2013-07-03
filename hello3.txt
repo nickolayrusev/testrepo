@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-inserted file change from local
-=======
 inserted file
 change from web
->>>>>>> dc4fefb7e5efbda4485bae8ec685dd0c46f2ed1e
