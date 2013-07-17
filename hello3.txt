@@ -5,4 +5,4 @@ change from local karadjov
 try to fetch
 try to fetch second karadjov
 view this commit
-kak e sashe
+this change should be merged into master branch
